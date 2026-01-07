@@ -3,7 +3,9 @@
 Full Stack Web Developer | MERN + Next.js | LLM-Powered Apps | Hackathon Finalist at Google and Microsoft Gurgaon
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&lines=Full+Stack+Developer;MERN+%2B+Next.js;LLM+Powered+Apps;Hackathon+Finalist+at+Google+and+Microsoft+Gurgaon" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&lines=Full+Stack+Developer;MERN+%2B+Next.js;LLM+Powered+Apps;Hackathon+Finalist+at+Google+and+Microsoft+Gurgaon"
+    width="500"
+    />
 </p>
 
 

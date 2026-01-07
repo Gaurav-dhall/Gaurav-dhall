@@ -77,20 +77,26 @@ Full Stack Web Developer • MERN + Next.js • LLM-Powered Apps • Hackathon F
 ## 📈 GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav-dhall&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Gaurav-dhall&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gaurav-dhall&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Gaurav-dhall&show_icons=true&theme=nightowl&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Gaurav-dhall&theme=nightowl&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gaurav-dhall&layout=compact&theme=nightowl&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 

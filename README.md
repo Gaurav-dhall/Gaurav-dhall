@@ -2,6 +2,8 @@
 <h3 align="center">
 Full Stack Web Developer | MERN + Next.js | LLM-Powered Apps | Hackathon Finalist at Google and Microsoft
 </h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=Full+Stack+Developer;MERN+%2B+Next.js;LLM+Powered+Apps)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-dhall-4882852b6">

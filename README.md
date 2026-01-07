@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Dhall</h1>
-<h3 align="center">Full Stack Web Developer | MERN + Next.js | Hackathon Finalist at Google and Microsoft</h3>
+<h3 align="center">
+Full Stack Web Developer | MERN + Next.js | LLM-Powered Apps | Hackathon Finalist at Google and Microsoft
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-dhall-4882852b6">
@@ -17,36 +19,36 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year Computer Science Student at **MAIT, Delhi**
-- 💻 Full Stack Developer skilled in **MERN & Next.js**
+- 💻 Full Stack Developer specializing in **MERN & Next.js**
+- 🤖 Building **LLM-powered web applications** using **React & LangChain**
+- 🧠 Experience integrating **LLMs into frontend applications** for real-world use cases
 - 🏆 **Hackathon Finalist** at **Microsoft Office Gurgaon** & **Google Office Gurgaon**
-- 🌱 Currently focused on **building production-ready web apps**
-- 🎯 Actively looking for **Full-Time Internship**
+- 🎯 Actively looking for a **Full-Time Internship**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![React](https://img.shields.io/badge/React-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-skyblue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-skyblue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 
-### Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Express](https://img.shields.io/badge/Express-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
-### AI 
-![LLM](https://img.shields.io/badge/LLM-blue)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow)
-![Langchain](https://img.shields.io/badge/LangChain-green)
+### 🤖 AI / LLM Stack
+![LangChain](https://img.shields.io/badge/LangChain-blueviolet)
+![OpenAI](https://img.shields.io/badge/OpenAI-black)
+![LLMs](https://img.shields.io/badge/LLMs-green)
 
-
-### Tools
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Postman](https://img.shields.io/badge/Postman-orange)
@@ -55,10 +57,16 @@
 ---
 
 ## 🔥 Featured Projects
-- 🌦️ **Aura Cast** — Real-time weather app with dynamic backgrounds  
+
+### 🌐 Web & Full Stack
+- 🌦️ **Aura Cast** — Real-time weather app with dynamic video backgrounds  
   🔗 https://aura-cast-ten.vercel.app/
-- 🚀 **MERN / Next.js Project** — (Add your best one here)
-- 🏆 **Hackathon Project** — Built during national-level hackathons
+
+- 🚀 **MERN / Next.js App** — Production-ready full stack application  
+
+### 🤖 AI / LLM Powered Applications
+- 🤖 **LLM Project 1** — React + LangChain powered AI application  
+- 🧠 **LLM Project 2** — AI-driven feature integrated into a web platform  
 
 👉 Check pinned repositories below ⬇️
 
@@ -82,4 +90,4 @@
 
 ---
 
-⭐ *If you like my work, consider starring the repositories!*
+⭐ *If you find my work interesting, feel free to explore and star the repositories!*

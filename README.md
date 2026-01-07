@@ -76,7 +76,9 @@ Full Stack Web Developer • MERN + Next.js • LLM-Powered Apps • Hackathon F
 
 ## 📈 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gaurav-dhall&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Gaurav-dhall&style=flat-square" alt="Profile Views" />
+
+
 
 
 

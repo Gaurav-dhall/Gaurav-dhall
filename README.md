@@ -40,6 +40,12 @@
 ![Express](https://img.shields.io/badge/Express-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
+### AI 
+![LLM](https://img.shields.io/badge/LLM-blue)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow)
+![Langchain](https://img.shields.io/badge/LangChain-green)
+
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-black)

@@ -60,16 +60,6 @@ Full Stack Web Developer • MERN + Next.js • LLM-Powered Apps • Hackathon F
 
 ## 🔥 Featured Projects
 
-### 🌐 Web & Full Stack
-- 🌦️ **Aura Cast** — Real-time weather app with dynamic video backgrounds  
-  🔗 https://aura-cast-ten.vercel.app/
-
-- 🚀 **MERN / Next.js App** — Production-ready full stack application  
-
-### 🤖 AI / LLM Powered Applications
-- 🤖 **LLM Project 1** — React + LangChain powered AI application  
-- 🧠 **LLM Project 2** — AI-driven feature integrated into a web platform  
-
 👉 Check pinned repositories below ⬇️
 
 ---

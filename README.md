@@ -204,19 +204,16 @@ Short description of the project goes here.
 
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
+
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-dhall&show_icons=true&theme=transparent&hide_border=true&border_radius=10&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-dhall&theme=transparent&hide_border=true&border_radius=10" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-dhall&layout=compact&theme=transparent&hide_border=true&border_radius=10" height="165" />
-
+<img src="https://github-stats-extended.vercel.app/api?username=Gaurav-dhall&show_icons=true&theme=transparent&hide_border=true&border_radius=10&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Gaurav-dhall&theme=transparent&hide_border=true&border_radius=10" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaurav-dhall&layout=compact&theme=transparent&hide_border=true&border_radius=10" height="165" />
 </div>
-
 <!-- TODO: replace "your-github-username" in all three image URLs above with your actual GitHub username -->
-
+ 
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 🤝 Connect With Me

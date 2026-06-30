@@ -17,26 +17,26 @@
 <!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gaurav+Dhall;Full+Stack+Developer;AI+%2F+LLM+Enthusiast;Turning+Ideas+Into+Software" alt="Typing SVG" />
 
-<h3>B.Tech CSE (3rd Year) · Full Stack Developer · AI Enthusiast</h3>
+<h3>B.Tech CSE (4th Year) · Full Stack Developer · AI Enthusiast</h3>
 
 <i>Turning ideas into real, working products — one line of code at a time.</i>
 
 <br/>
 
 <!-- Social buttons - replace href values -->
-<a href="https://your-portfolio-link.com"> <!-- TODO: Portfolio URL -->
+<a href="https://gaurav-dhall-portfolio.vercel.app/"> <!-- TODO: Portfolio URL -->
   <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://your-resume-link.com"> <!-- TODO: Resume URL -->
+<a href="https://drive.google.com/file/d/14HJA_uMgdqahMvyhSHyO_snCIihaRy5f/view?usp=sharing"> <!-- TODO: Resume URL -->
   <img src="https://img.shields.io/badge/Resume-FF5252?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin"> <!-- TODO: LinkedIn URL -->
+<a href="https://www.linkedin.com/in/gaurav-dhall-4882852b6/"> <!-- TODO: LinkedIn URL -->
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/your-leetcode"> <!-- TODO: LeetCode URL -->
+<a href="https://leetcode.com/u/GauravDhall/"> <!-- TODO: LeetCode URL -->
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:your-email@example.com"> <!-- TODO: Email -->
+<a href="mailto:gauravdhall35@gmail.com"> <!-- TODO: Email -->
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -75,7 +75,7 @@
 
 | Portfolio | Resume | LinkedIn | LeetCode | Email |
 |:---:|:---:|:---:|:---:|:---:|
-| [🌐 Visit](https://your-portfolio-link.com) <!-- TODO --> | [📄 View](https://your-resume-link.com) <!-- TODO --> | [💼 Connect](https://linkedin.com/in/your-linkedin) <!-- TODO --> | [🧩 Profile](https://leetcode.com/your-leetcode) <!-- TODO --> | [✉️ Reach Out](mailto:your-email@example.com) <!-- TODO --> |
+| [🌐 Visit](https://gaurav-dhall-portfolio.vercel.app/) <!-- TODO --> | [📄 View](https://drive.google.com/file/d/14HJA_uMgdqahMvyhSHyO_snCIihaRy5f/view?usp=sharing) <!-- TODO --> | [💼 Connect](https://www.linkedin.com/in/gaurav-dhall-4882852b6/) <!-- TODO --> | [🧩 Profile](https://leetcode.com/u/GauravDhall/) <!-- TODO --> | [✉️ Reach Out](mailto:gauravdhall35@gmail.com) <!-- TODO --> |
 
 </div>
 
@@ -102,11 +102,11 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,js,py" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 **Backend**
 
@@ -114,7 +114,7 @@
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis" />
 
 **AI / LLM**
 
@@ -125,7 +125,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,vite,npm" />
 
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
@@ -208,10 +208,10 @@ Short description of the project goes here.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true&border_radius=10&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=transparent&hide_border=true&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-dhall&show_icons=true&theme=transparent&hide_border=true&border_radius=10&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-dhall&theme=transparent&hide_border=true&border_radius=10" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-dhall&layout=compact&theme=transparent&hide_border=true&border_radius=10" height="165" />
 
 </div>
 
@@ -223,16 +223,16 @@ Short description of the project goes here.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin"> <!-- TODO -->
+<a href="https://www.linkedin.com/in/gaurav-dhall-4882852b6/"> <!-- TODO -->
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com"> <!-- TODO -->
+<a href="mailto:gauravdhall35@gmail.com"> <!-- TODO -->
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/your-leetcode"> <!-- TODO -->
+<a href="https://leetcode.com/u/GauravDhall/"> <!-- TODO -->
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://your-portfolio-link.com"> <!-- TODO -->
+<a href="https://gaurav-dhall-portfolio.vercel.app/"> <!-- TODO -->
   <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -242,7 +242,7 @@ Short description of the project goes here.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2E9EF7&style=flat" /> <!-- TODO: replace username -->
+<img src="https://komarev.com/ghpvc/?username=Gaurav-dhall&label=Profile%20Views&color=2E9EF7&style=flat" /> <!-- TODO: replace username -->
 
 </div>
 
@@ -256,6 +256,6 @@ I'm always open to conversations about software engineering, full stack developm
 
 If you're a recruiter, fellow developer, or just someone who likes building things, feel free to reach out. I'd love to connect.
 
-**📩 your-email@example.com** <!-- TODO -->
+**📩 gauravdhall35@gmail.com** <!-- TODO -->
 
 </div>

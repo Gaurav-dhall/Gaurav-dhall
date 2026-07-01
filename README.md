@@ -17,7 +17,7 @@
 <!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gaurav+Dhall;Full+Stack+Developer;AI+%2F+LLM+Enthusiast;Turning+Ideas+Into+Software" alt="Typing SVG" />
 
-<h3>B.Tech CSE (4th Year) · Full Stack Developer · AI Enthusiast</h3>
+<h3>B.Tech IT (4th Year) · Full Stack Developer · AI Enthusiast</h3>
 
 <i>Turning ideas into real, working products — one line of code at a time.</i>
 
@@ -48,7 +48,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year B.Tech Computer Science student, currently building real-world software and sharpening my fundamentals.
+- 🎓 3rd Year B.Tech Information Technology student, currently building real-world software and sharpening my fundamentals.
 - ⚡ Fast learner — I enjoy exploring new technologies and figuring out how to put them to practical use.
 - 🛠️ Product builder at heart — I like turning ideas into things people can actually use.
 - 🔍 Detail oriented, with a strong curiosity for new tools, frameworks, and ways of solving problems.

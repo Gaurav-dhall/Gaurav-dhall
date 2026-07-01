@@ -190,18 +190,23 @@ Short description of the project goes here.
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 📈 Journey Timeline
-
-```
-2026  ──  Daily DSA practice
-          AI-powered projects
-          Internship preparation
-
-2025  ──  Full Stack Developer Internship @ Web3Task Pvt. Ltd.
-          Hackathon participation (Code Clash 2.0, Hack With MAIT 2.0)
-
-2024  ──  Started Full Stack Development journey
-```
-
+ 
+**2023**
+- **Sept** — Joined Maharaja Agrasen Institute of Technology as a B.Tech CSE (1st Year) student
+- **Sept 2023 – Jan 2024** — Learned C and Java, and started practicing DSA in Java
+  
+**2024**
+- **Jan – Jun** — Began web development: HTML, CSS, JavaScript, React.js
+- **Jun – Dec** — Participated in Hack With MAIT 5.0, shortlisted among the Top 10 teams (Microsoft Office, Gurgaon)
+  
+**2025**
+- **Jan – Jul** — Learned backend development with MongoDB, Node.js and Express.js; built backend projects including **PrepMitra**, an EdTech platform
+- **Jul – Dec** — 1st Runner Up at Code Clash 2.0 (Google Office, Gurgaon); learned Python, Generative AI, LLM integration and LangChain; built **Planora**
+  
+**2026**
+- **Jan – Jul** — Completed a 3-month on-site Full Stack Developer Internship at Web3Task Pvt. Ltd., working on **TraverseVPN.com**, **V3VPN.com** and **Qyuro.com** — building and optimizing landing pages (reducing load latency) and contributing across the full stack
+- Learned Flask and FastAPI; built **SalesMemory AI** and a **Scam Detector App**, integrating LLMs into practical applications
+- **Currently** — Polishing DSA fundamentals through daily LeetCode problems and weekly contests
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
 

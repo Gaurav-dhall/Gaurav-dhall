@@ -130,64 +130,56 @@
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## 🚀 Featured Projects
-
-<!--
-  Replace each placeholder block below with a real project.
-  Keep the structure (Name / Description / Tech Stack / Live Demo / Repo) for each one.
--->
-
+ 
 <table>
 <tr>
 <td width="50%">
-
-### 📌 Project One <!-- TODO: Project Name -->
-
-<!-- TODO: 1-2 line description of what the project does and the problem it solves -->
-Short description of the project goes here.
-
-**Tech Stack:** <!-- TODO: e.g. React · Node.js · MongoDB -->
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](#) <!-- TODO: live link -->
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: repo link -->
-
+ 📌 SalesMemory AI
+ 
+A sales intelligence portal that tracks active, won, and lost deals with rep-level insights — including risk assessment, pre-call briefs, and win/loss pattern detection powered by vectorized memory.
+ 
+**Tech Stack:** FastAPI · React · Tailwind CSS · Framer Motion
+ 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](https://salesmemory-ai.vercel.app/dashboard)
+[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav-dhall/salesmemory-ai)
+ 
 </td>
 <td width="50%">
-
-### 📌 Project Two <!-- TODO: Project Name -->
-
-<!-- TODO: 1-2 line description of what the project does and the problem it solves -->
-Short description of the project goes here.
-
-**Tech Stack:** <!-- TODO: e.g. Next.js · FastAPI · MySQL -->
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](#) <!-- TODO: live link -->
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: repo link -->
-
+ 📌 Scam Detector
+ 
+A WhatsApp-integrated tool that analyzes forwarded images, audio, and video through multimodal AI pipelines to flag deepfakes, manipulated media, and phishing links.
+ 
+**Tech Stack:** Flask · Hugging Face · Twilio · Grok
+ 
+[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav-dhall/Scam-Detector)
+ 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### 📌 Project Three <!-- TODO: Project Name -->
-
-<!-- TODO: 1-2 line description of what the project does and the problem it solves -->
-Short description of the project goes here.
-
-**Tech Stack:** <!-- TODO: e.g. LangChain · OpenAI API · Flask -->
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](#) <!-- TODO: live link -->
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) <!-- TODO: repo link -->
-
+ 📌 Planora
+ 
+An AI-powered itinerary planner that generates a personalized day-by-day travel plan based on trip dates, traveler count, and preferred trip style.
+ 
+**Tech Stack:** React · Node.js · Express · MongoDB · LangChain · Grok
+ 
+[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav-dhall/Planora)
+ 
 </td>
 <td width="50%">
-
-<!-- TODO: Add a fourth project card here if needed, or remove this cell -->
-
+ 📌 PrepMitra — EdTech
+ 
+A full stack mentorship platform connecting students and mentors for 1:1 exam-prep sessions over Google Meet, with subscription management and payments.
+ 
+**Tech Stack:** Next.js · Node.js · MongoDB · Razorpay · NextAuth
+ 
+[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaurav-dhall/PrepMitra-edtech)
+ 
 </td>
 </tr>
 </table>
-
 <img src="assets/divider.svg" width="100%" height="6" alt=""/>
+
 
 ## 📈 Journey Timeline
  

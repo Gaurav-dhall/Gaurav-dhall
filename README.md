@@ -27,7 +27,7 @@
 <a href="https://gaurav-dhall-portfolio.vercel.app/"> <!-- TODO: Portfolio URL -->
   <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/14HJA_uMgdqahMvyhSHyO_snCIihaRy5f/view?usp=sharing"> <!-- TODO: Resume URL -->
+<a href="https://drive.google.com/file/d/15Y4v7zs30QILxFEkYgH5lPROalayKBtZ/view?usp=sharing"> <!-- TODO: Resume URL -->
   <img src="https://img.shields.io/badge/Resume-FF5252?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gaurav-dhall-4882852b6/"> <!-- TODO: LinkedIn URL -->
@@ -75,7 +75,7 @@
 
 | Portfolio | Resume | LinkedIn | LeetCode | Email |
 |:---:|:---:|:---:|:---:|:---:|
-| [🌐 Visit](https://gaurav-dhall-portfolio.vercel.app/) <!-- TODO --> | [📄 View](https://drive.google.com/file/d/14HJA_uMgdqahMvyhSHyO_snCIihaRy5f/view?usp=sharing) <!-- TODO --> | [💼 Connect](https://www.linkedin.com/in/gaurav-dhall-4882852b6/) <!-- TODO --> | [🧩 Profile](https://leetcode.com/u/GauravDhall/) <!-- TODO --> | [✉️ Reach Out](mailto:gauravdhall35@gmail.com) <!-- TODO --> |
+| [🌐 Visit](https://gaurav-dhall-portfolio.vercel.app/) <!-- TODO --> | [📄 View](https://drive.google.com/file/d/15Y4v7zs30QILxFEkYgH5lPROalayKBtZ/view?usp=sharing) <!-- TODO --> | [💼 Connect](https://www.linkedin.com/in/gaurav-dhall-4882852b6/) <!-- TODO --> | [🧩 Profile](https://leetcode.com/u/GauravDhall/) <!-- TODO --> | [✉️ Reach Out](mailto:gauravdhall35@gmail.com) <!-- TODO --> |
 
 </div>
 
